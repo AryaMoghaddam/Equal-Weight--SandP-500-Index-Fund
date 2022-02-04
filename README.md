@@ -1,2 +1,3 @@
 # Equal-Weight--SandP-500-Index-Fund
- Python script that will accept the value of your portfolio and tell you how many shares of each S&amp;P 500 constituent you should purchase to get an equal-weight version of the index fund.
+## Screenshot of the Recommended Stocks to Buy:
+![image](https://user-images.githubusercontent.com/63557848/152454937-891f8157-365a-4350-b1de-4367c12535a5.png)
